@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 LifeLens AI — Health Prediction System
 
 ML-powered risk assessment for Diabetes, Heart Disease & Kidney Stones
@@ -78,3 +79,6 @@ LifeLens-AI/
 | Diabetes     | Gradient Boosting  | 95.5%    |
 | Heart Disease| Random Forest      | 96.0%    |
 | Kidney Stones| Gradient Boosting  | 95.0%    |
+=======
+# LifeLensAI
+>>>>>>> f0ece67c3c6d6a2d350851b9ad680cce20bb24e1
